@@ -4,3 +4,4 @@ local update 3333
 github333333
 local update ooooooooooo
 local update username
+local update password
